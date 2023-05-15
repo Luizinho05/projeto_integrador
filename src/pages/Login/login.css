@@ -1,0 +1,37 @@
+#loginsite {
+    text-align: center;
+  }
+  
+  .FormularioLogin {
+    color: #0CAFF5;
+    text-align: left;
+    display: inline-block;
+    position: relative;
+    margin: 20px;
+    border: none;
+    background: black;
+  }
+  
+  .informaçõesLogin {
+    color: #0CAFF5;
+    background: black;
+  }
+  
+  .logar {
+    color: #0CAFF5;
+    padding: 30px;
+    cursor: pointer;
+  }
+  
+  .botaologin{
+    background-color: black;
+    border-style:outset;
+    border-radius: 100px 100px 100px 100px;
+    bottom:100px;
+    border-color: whitesmoke;
+    font-size:16px;
+  }
+
+  #espaçoL{
+    margin: 5px;
+  }

@@ -1,0 +1,100 @@
+.grid-container {
+
+    justify-content: center;
+
+    justify-content: space-around;
+
+    display: grid;
+
+    box-sizing: border-box;
+
+    border-radius: 1rem;
+
+
+
+
+    margin-top: 2rem;
+
+    margin-left: 20rem;
+
+    margin-right: 20rem;
+
+    margin-bottom: 2rem;
+
+
+
+
+    padding: 1rem;
+
+    gap: 1rem;
+
+    grid-template-columns: 12rem 12rem 12rem;
+
+    background-color: gray;
+
+}
+
+
+
+
+.grid-container div {
+
+    border-radius: 1rem;
+
+    background-color: whitesmoke;
+
+    text-align: center;
+
+    padding: 2rem 2rem;
+}
+
+
+
+
+.legenda {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    font-size: 1vw;
+
+    font-style: italic;
+}
+
+
+
+
+.disponivel {
+
+    color: rgb(2, 177, 2);
+
+}
+
+
+
+
+.nao-disponivel {
+
+    color: red;
+
+}
+
+
+
+
+.botao {
+
+    height: 2rem;
+
+    -ms-transform: translateX(500%);
+
+    transform: translateX(500%);
+
+    cursor:pointer;
+}
+
+.grid-container a:link, .grid-container a:visited {
+
+     color: #0CAFF5;
+     text-decoration:none;
+    background:rgba(0, 0, 0, 0.932);
+    }

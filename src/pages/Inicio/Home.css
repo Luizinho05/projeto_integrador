@@ -1,0 +1,64 @@
+#sobreloja{
+    color: #0CAFF5;
+    text-align: left;
+    display: inline-block;
+    position: relative;
+    margin: 20px;
+    border: none;
+    background: black;
+  }
+  
+  #proposta {
+    color: #0CAFF5;
+    text-align: left;
+    display: inline-block;
+    position: relative;
+    margin: 20px;
+    border: none;
+    background: black;
+  }
+  
+  #missao {
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+  }
+  
+  .intenção{
+    background: rgba(0, 0, 0, 0.555);
+    color: whitesmoke;
+    font-style: italic;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    margin: 20px;
+    border: none;
+  }
+  
+  .InicioLoja {
+    color: #0CAFF5;
+    background: black;
+    font-size: 20px;
+    text-align: left;
+    display: inline-block;
+    margin: 20px;
+    border: none;
+  }
+  
+  .historiaLoja {
+    background: rgba(0, 0, 0, 0.555);
+    color: whitesmoke;
+    font-style: italic;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    margin: 20px;
+    border: none;
+  }
+  
+  #ideia {
+    color: #0CAFF5;
+    background: black;
+    font-family:'Courier New', Courier, monospace;
+    font-style:italic;
+  }

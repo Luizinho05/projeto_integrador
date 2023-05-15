@@ -1,0 +1,47 @@
+#estruturacadastro {
+    text-align: center;
+    }
+    
+    .FormularioCadastro {
+      color: #0CAFF5;
+      text-align: center;
+      display: inline-block;
+      position: relative;
+      margin: 20px;
+      border: none;
+      background: black;
+    }
+    
+    .informaçõesCadastro {
+      color: #0CAFF5;
+      background: black;
+    }
+    
+    .preferencia {
+      color: #0CAFF5;
+      background-origin: content-box;
+      background: rgba(0, 0, 0, 0.904);
+    }
+    
+    #circuloPreferencia {
+      cursor: pointer;
+    }
+    
+    .cadastrar {
+      color: #0CAFF5;
+      padding: 30px;
+      cursor: pointer;
+    }
+    
+    .botaocadastro{
+      background-color: black;
+      border-style:outset;
+      border-radius: 100px 100px 100px 100px;
+      bottom:100px;
+      border-color: whitesmoke;
+      font-size:16px;
+    }
+
+    #espaçoC{
+      margin: 5px;
+    }
