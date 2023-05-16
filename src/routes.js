@@ -22,7 +22,6 @@ export default function Rotas(){
             <Route path='/Produtos' element={ <Produtos /> }/>
             <Route path='/Cadastro' element={ <Cadastro /> }/>
             <Route path='/Login' element={ <Login /> }/>
-            <Route path='/Footer' element={ <Footer /> }/>
         </Routes>
         <Footer/>
         </BrowserRouter>

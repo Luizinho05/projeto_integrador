@@ -90,7 +90,11 @@
     transform: translateX(500%);
 
     cursor:pointer;
+
+   
+
 }
+
 
 .grid-container a:link, .grid-container a:visited {
 
