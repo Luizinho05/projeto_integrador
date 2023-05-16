@@ -39,11 +39,12 @@
   text-align: right;
   display: inline-block;
   position: relative;
-  margin: 60px;
-  text-shadow: 3px 0 whitesmoke, -3px 0 whitesmoke, 0 3px whitesmoke, 0 -3px whitesmoke,
-2px 2px whitesmoke, -2px -2px whitesmoke, 2px -2px whitesmoke, -2px 2px whitesmoke;
+  margin: 40px;
+  text-shadow: 3px 0 #0CAFF5, -3px 0 #0CAFF5, 0 3px #0CAFF5, 0 -3px #0CAFF5,
+2px 2px #0CAFF5, -2px -2px #0CAFF5, 2px -2px #0CAFF5, -2px 2px #0CAFF5;
   border: none;
   font-family:fantasy;
+  font-size:25px;
 }
 
 .paginas {
@@ -52,15 +53,15 @@
   display: inline-block;
   position: relative;
   margin: 40px;
-  text-shadow: 3px 0 whitesmoke, -3px 0 whitesmoke, 0 3px whitesmoke, 0 -3px whitesmoke,
-  2px 2px whitesmoke, -2px -2px whitesmoke, 2px -2px whitesmoke, -2px 2px whitesmoke;
+  text-shadow: 3px 0 #0CAFF5, -3px 0 #0CAFF5, 0 3px #0CAFF5, 0 -3px #0CAFF5,
+  2px 2px #0CAFF5, -2px -2px #0CAFF5, 2px -2px #0CAFF5, -2px 2px #0CAFF5;
   border: none;
   font-family:fantasy;
   font-size:25px;
 }
 
 .dropdown {
-  position: relative;
+  position: static;
   display: inline-block;
 }
 
@@ -69,10 +70,8 @@
 }
 
 .dropdown:hover .dropbtn {
-  background: black;
+  background: rgba(0, 0, 0, 0.555);
   font-style: oblique;
-  text-shadow: 3px 0 whitesmoke, -3px 0 whitesmoke, 0 3px whitesmoke, 0 -3px whitesmoke,
-  2px 2px whitesmoke, -2px -2px whitesmoke, 2px -2px whitesmoke, -2px 2px whitesmoke;
   border-style: outset;
   border-color:#0CAFF5;
   border-radius: 100px;

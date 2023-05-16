@@ -73,7 +73,7 @@ class Cadastro extends Component {
                             <input type="radio" name="preferencia"  id="circuloPreferencia"  value="Conforto" />Roupa de Conforto</label><br />
                         <label class="preferencia">
                             <input type="radio" name="preferencia" id="circuloPreferencia" value="Estetica" />Roupa de Estética</label><br />
-                    </div><br />
+                    </div><br /><br/>
 
                     <button type='submit' class='botaocadastro'><strong class="cadastrar">Cadastrar</strong></button>
                 </form>

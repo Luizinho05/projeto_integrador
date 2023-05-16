@@ -25,6 +25,7 @@
     
     #circuloPreferencia {
       cursor: pointer;
+      margin: 1mm;
     }
     
     .cadastrar {
