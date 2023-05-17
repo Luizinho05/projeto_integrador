@@ -34,7 +34,7 @@ export default function Header() {
             </div>
 
             <div class="dropdown">
-                <button class="dropbtn"><h2 class="paginas">Contato</h2></button>
+                <button class="dropbtn"><h2 class="paginas">Área Cliente</h2></button>
                 <div class="dropdown-content">
                     <Link class="Link" to='/Cadastro'>Cadastro</Link>
                     <Link class="Link" to='/Login'>Login</Link>
