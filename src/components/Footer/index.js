@@ -7,7 +7,7 @@ function Footer() {
         <footer>
 
             <p>
-                Nomes:  Fernando Mendes,  Luiz Henrique,  Renan De Britto Selmo.
+                 Fernando Mendes,  Luiz Henrique,  Renan De Britto Selmo
             </p>
 
         </footer>
