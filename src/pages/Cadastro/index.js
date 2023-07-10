@@ -23,7 +23,7 @@ class Cadastro extends Component {
             return
         }
         alert(`Nome: ${nome} \nE-mail: ${email} \nSenha: ${senha} \nSexo: ${sexo} \nPreferencia: ${preferencia}`)
-        this.setState({
+       this.setState ({
             nome: '',
             email: '',
             senha: '',
